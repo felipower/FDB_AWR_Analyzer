@@ -1,4 +1,5 @@
 # FDB_AWR_Analyzer
+Link with more information about the tool: https://www.felipedonoso.cl/p/awr-analyzer.html
 AWR Analyzer
 
 
