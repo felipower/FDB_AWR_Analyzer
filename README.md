@@ -1,4 +1,5 @@
 # FDB_AWR_Analyzer
+Link with more information about the tool: https://www.felipedonoso.cl/p/awr-analyzer.html
 AWR Analyzer
 
 
@@ -35,9 +36,6 @@ Also you have a dashboard sheet (the sheet's name is "Dashboard") with the last 
 
 
 I hope the worksheet it would be great helpfull for your performance analysis. Please don't change the code or change my copyright.
-
-This is the link for download the tools. Please tell me if you have problem about it:
-https://drive.google.com/file/d/1_XarxTcizAJTXc8txS_bYWCeEL5CPCcV/view?usp=sharing
 
 I will hope your comments by means my email: felipe.donoso@oracle.com or felipe@felipedonoso.cl
 Byee
